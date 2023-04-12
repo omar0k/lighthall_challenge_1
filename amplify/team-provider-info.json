@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplify7d7a8497ff6e4-staging-55617-authRole",
+      "UnauthRoleArn": "arn:aws:iam::232743111871:role/amplify-amplify7d7a8497ff6e4-staging-55617-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::232743111871:role/amplify-amplify7d7a8497ff6e4-staging-55617-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplify7d7a8497ff6e4-staging-55617-deployment",
+      "UnauthRoleName": "amplify-amplify7d7a8497ff6e4-staging-55617-unauthRole",
+      "StackName": "amplify-amplify7d7a8497ff6e4-staging-55617",
+      "StackId": "arn:aws:cloudformation:us-east-1:232743111871:stack/amplify-amplify7d7a8497ff6e4-staging-55617/bdd01ac0-d8f6-11ed-88b0-0e30e4289c11",
+      "AmplifyAppId": "d14n1xpaztm15s"
+    },
+    "categories": {
+      "api": {
+        "lighthallchallenge1": {}
+      }
+    }
+  }
+}

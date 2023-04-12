@@ -1,0 +1,6 @@
+{
+  "AppSyncApiName": "lighthallchallenge1",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthModeLastUpdated": "2023-04-12T06:00:04.484Z"
+}
