@@ -42,7 +42,7 @@ function App() {
   };
   useEffect(() => {
     fetchData();
-  }, [currentTimeZone]);
+  }, [currentTimeZone, fetchData]);
   const updateClickCount = async (id, count) => {
     await API.graphql({
       query: mutations.updateGeoCount,

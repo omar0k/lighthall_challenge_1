@@ -1,4 +1,3 @@
-import { useState } from "react";
 import "./Button.css";
 const Button = ({ onClick }) => {
   return (
