@@ -1,0 +1,17 @@
+.App {
+    background-color: #202124;
+    justify-content: center;
+    display: flex;
+
+}
+
+.container {
+    background-color: red;
+    width: 500px;
+    height:;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
