@@ -27,7 +27,7 @@ function App() {
       setCurrentTimeZoneId(currentTimeZoneData.id);
     }
   };
-
+ 
   const createGeoCount = async () => {
     const response = await API.graphql({
       query: mutations.createGeoCount,
@@ -42,7 +42,7 @@ function App() {
   };
   useEffect(() => {
     fetchData();
-  }, [currentTimeZone, fetchData]);
+  }, [currentTimeZone]);
   const updateClickCount = async (id, count) => {
     await API.graphql({
       query: mutations.updateGeoCount,
